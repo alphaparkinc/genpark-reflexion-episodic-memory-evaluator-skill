@@ -1,0 +1,20 @@
+{
+  "name": "genpark-reflexion-episodic-memory-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Reflexion architecture maintaining episodic failure memories and verbal reinforcement learning signals",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "reflexion",
+    "verbal-reinforcement-learning",
+    "episodic-memory",
+    "agent-reflection",
+    "self-evaluative",
+    "python-standard-library",
+    "agent-skills",
+    "autonomous-agents",
+    "meta-cognition",
+    "memory-architecture"
+  ]
+}

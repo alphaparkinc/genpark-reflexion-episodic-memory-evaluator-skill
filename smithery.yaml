@@ -1,0 +1,6 @@
+name: genpark-reflexion-episodic-memory-evaluator-skill
+version: 1.0.0
+description: Reflexion architecture maintaining episodic failure memories and verbal reinforcement learning signals
+command: python
+args:
+  - mcp_server.py
